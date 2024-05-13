@@ -6,11 +6,11 @@
 /*   By: rlabbiz <rlabbiz@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/08 09:52:15 by rlabbiz           #+#    #+#             */
-/*   Updated: 2022/10/17 15:51:02 by rlabbiz          ###   ########.fr       */
+/*   Updated: 2024/05/13 20:43:46 by rlabbiz          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../libft.h"
 
 void	ft_putnbr_fd(int n, int fd)
 {

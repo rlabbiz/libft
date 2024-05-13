@@ -6,11 +6,11 @@
 /*   By: rlabbiz <rlabbiz@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/09/30 11:22:33 by rlabbiz           #+#    #+#             */
-/*   Updated: 2022/10/17 12:20:39 by rlabbiz          ###   ########.fr       */
+/*   Updated: 2024/05/13 20:43:40 by rlabbiz          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../libft.h"
 
 void	*ft_memset(void *ptr, int x, size_t n)
 {

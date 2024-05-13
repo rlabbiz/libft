@@ -6,11 +6,11 @@
 /*   By: rlabbiz <rlabbiz@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/05 13:57:08 by rlabbiz           #+#    #+#             */
-/*   Updated: 2022/10/17 13:35:49 by rlabbiz          ###   ########.fr       */
+/*   Updated: 2024/05/13 20:44:00 by rlabbiz          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../libft.h"
 
 char	*ft_strjoin(char const *s1, char const *s2)
 {

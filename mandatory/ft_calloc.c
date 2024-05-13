@@ -6,11 +6,11 @@
 /*   By: rlabbiz <rlabbiz@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/05 09:02:58 by rlabbiz           #+#    #+#             */
-/*   Updated: 2022/10/22 16:43:37 by rlabbiz          ###   ########.fr       */
+/*   Updated: 2024/05/13 20:43:14 by rlabbiz          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../libft.h"
 
 void	*ft_calloc(size_t count, size_t size)
 {

@@ -6,11 +6,11 @@
 /*   By: rlabbiz <rlabbiz@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/01 14:13:23 by rlabbiz           #+#    #+#             */
-/*   Updated: 2022/10/19 19:28:49 by rlabbiz          ###   ########.fr       */
+/*   Updated: 2024/05/13 20:43:10 by rlabbiz          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../libft.h"
 
 void	ft_bzero(void *s, size_t n)
 {

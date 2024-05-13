@@ -6,11 +6,11 @@
 /*   By: rlabbiz <rlabbiz@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/09/29 14:40:20 by rlabbiz           #+#    #+#             */
-/*   Updated: 2022/10/17 14:03:47 by rlabbiz          ###   ########.fr       */
+/*   Updated: 2024/05/13 20:44:44 by rlabbiz          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../libft.h"
 
 int	ft_toupper(int c)
 {

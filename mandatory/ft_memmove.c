@@ -6,11 +6,11 @@
 /*   By: rlabbiz <rlabbiz@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/03 10:58:08 by rlabbiz           #+#    #+#             */
-/*   Updated: 2022/10/22 16:45:46 by rlabbiz          ###   ########.fr       */
+/*   Updated: 2024/05/13 20:43:38 by rlabbiz          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../libft.h"
 
 void	*ft_memmove(void *dest, const void *src, size_t len)
 {

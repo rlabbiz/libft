@@ -6,11 +6,11 @@
 /*   By: rlabbiz <rlabbiz@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/06 15:56:39 by rlabbiz           #+#    #+#             */
-/*   Updated: 2022/10/21 18:41:05 by rlabbiz          ###   ########.fr       */
+/*   Updated: 2024/05/13 20:43:51 by rlabbiz          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../libft.h"
 
 static int	ft_count(char const *s, char c)
 {

@@ -6,11 +6,11 @@
 /*   By: rlabbiz <rlabbiz@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/04 11:09:36 by rlabbiz           #+#    #+#             */
-/*   Updated: 2022/10/22 17:25:04 by rlabbiz          ###   ########.fr       */
+/*   Updated: 2024/05/13 20:43:05 by rlabbiz          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../libft.h"
 
 int	ft_atoi(const char *str)
 {

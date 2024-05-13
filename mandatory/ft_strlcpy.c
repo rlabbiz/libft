@@ -6,11 +6,11 @@
 /*   By: rlabbiz <rlabbiz@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/03 08:24:54 by rlabbiz           #+#    #+#             */
-/*   Updated: 2022/10/17 15:19:08 by rlabbiz          ###   ########.fr       */
+/*   Updated: 2024/05/13 20:44:09 by rlabbiz          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../libft.h"
 
 size_t	ft_strlcpy(char *dest, const char *src, size_t destsize)
 {

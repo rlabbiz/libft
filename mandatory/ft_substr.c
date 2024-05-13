@@ -6,11 +6,11 @@
 /*   By: rlabbiz <rlabbiz@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/09/29 08:56:10 by rlabbiz           #+#    #+#             */
-/*   Updated: 2022/10/17 13:58:56 by rlabbiz          ###   ########.fr       */
+/*   Updated: 2024/05/13 20:44:38 by rlabbiz          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../libft.h"
 
 char	*ft_substr(char const *s, unsigned int start, size_t len)
 {

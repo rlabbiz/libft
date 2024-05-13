@@ -6,11 +6,11 @@
 /*   By: rlabbiz <rlabbiz@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/08 07:44:13 by rlabbiz           #+#    #+#             */
-/*   Updated: 2022/10/17 13:55:02 by rlabbiz          ###   ########.fr       */
+/*   Updated: 2024/05/13 20:44:34 by rlabbiz          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../libft.h"
 
 char	*ft_strrchr(const char *str, int c)
 {

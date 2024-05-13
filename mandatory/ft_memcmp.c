@@ -6,11 +6,11 @@
 /*   By: rlabbiz <rlabbiz@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/02 10:56:36 by rlabbiz           #+#    #+#             */
-/*   Updated: 2022/10/17 11:28:50 by rlabbiz          ###   ########.fr       */
+/*   Updated: 2024/05/13 20:43:34 by rlabbiz          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../libft.h"
 
 int	ft_memcmp(const void *str1, const void *str2, size_t n)
 {

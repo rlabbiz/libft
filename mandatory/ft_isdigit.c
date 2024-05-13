@@ -6,11 +6,11 @@
 /*   By: rlabbiz <rlabbiz@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/09/29 15:08:33 by rlabbiz           #+#    #+#             */
-/*   Updated: 2022/10/17 09:46:42 by rlabbiz          ###   ########.fr       */
+/*   Updated: 2024/05/13 20:43:26 by rlabbiz          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../libft.h"
 
 int	ft_isdigit(int num)
 {

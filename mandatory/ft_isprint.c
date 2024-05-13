@@ -6,11 +6,11 @@
 /*   By: rlabbiz <rlabbiz@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/09/30 09:03:13 by rlabbiz           #+#    #+#             */
-/*   Updated: 2022/10/17 09:47:30 by rlabbiz          ###   ########.fr       */
+/*   Updated: 2024/05/13 20:43:28 by rlabbiz          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../libft.h"
 
 int	ft_isprint(int c)
 {
