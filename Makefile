@@ -17,25 +17,40 @@ OBJECTS_BONUS = bonus/ft_lstnew_bonus.o bonus/ft_lstadd_back_bonus.o bonus/ft_ls
 DEPS = libft.h
 CC = cc
 
+# color difinition
+RED = "\033[0;31m"
+GREEN = "\033[0;32m"
+YELLOW = "\033[0;33m"
+BLUE = "\033[0;34m"
+MAGENTA = "\033[0;35m"
+CYAN = "\033[0;36m"
+RESET = "\033[0m"
+
+
 %.o: %.c $(DEPS)
-	$(CC) -c -o $@ $< $(CFLAGES)
+	@$(CC) -c -o $@ $< $(CFLAGES)
+	@echo $(YELLOW) "[+] Compiling $<" $(RESET)
 
 all: $(NAME)
 
 $(NAME) : $(OBJECTS)
-	ar rsc $(NAME) $(OBJECTS)
+	@ar rsc $(NAME) $(OBJECTS)
+	@echo $(GREEN) "[+] Library created" $(RESET)
+
 
 .PHONY: clean fclean all re bonus
 
 bonus: all $(NAME) $(OBJECTS_BONUS)
-	ar rsc $(NAME) $(OBJECTS_BONUS)
+	@ar rsc $(NAME) $(OBJECTS_BONUS)
+	@echo $(GREEN) "[+] Bonus Library created" $(RESET)
 
 clean:
-	rm -rf *.o
+	@rm -rf mandatory/*.o bonus/*.o
+	@echo $(RED) "[-] Objects removed" $(RESET)	
 
-fclean:
-	rm -rf mandatory/*.o bonus/*.o
-	rm -rf $(NAME)
+fclean: clean
+	@rm -rf $(NAME)
+	@echo $(RED) "[-] Library removed" $(RESET)
 
 re : fclean $(NAME)
 	
