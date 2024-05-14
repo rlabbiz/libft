@@ -34,7 +34,7 @@ clean:
 	rm -rf *.o
 
 fclean:
-	rm -rf *.o
+	rm -rf mandatory/*.o bonus/*.o
 	rm -rf $(NAME)
 
 re : fclean $(NAME)
