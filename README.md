@@ -20,12 +20,12 @@ The library includes various functions categorized into different sections such 
 ## Building 
 To build the `libft` library, you can use the provided Makefile. Simply run `make` in the root directory of the project to compile the library.
 ## Resources
-[https://www.geeksforgeeks.org/typecasting-in-c/](https://www.geeksforgeeks.org/typecasting-in-c/)
-[https://www.geeksforgeeks.org/memory-layout-of-c-program/](https://www.geeksforgeeks.org/memory-layout-of-c-program/)
-[https://www.geeksforgeeks.org/void-pointer-c-cpp/?ref=lbp/](https://www.geeksforgeeks.org/void-pointer-c-cpp/?ref=lbp/)
-[https://www.geeksforgeeks.org/dangling-void-null-wild-pointers/](https://www.geeksforgeeks.org/dangling-void-null-wild-pointers/)
-[https://www.geeksforgeeks.org/what-are-static-functions-in-c/](https://www.geeksforgeeks.org/what-are-static-functions-in-c/)
-[https://www.arm.linux.org.uk/docs/faqs/signedchar.php](https://www.arm.linux.org.uk/docs/faqs/signedchar.php)
-[https://www.geeksforgeeks.org/input-output-system-calls-c-create-open-close-read-write/](https://www.geeksforgeeks.org/input-output-system-calls-c-create-open-close-read-write/)
-[https://www.geeksforgeeks.org/data-structures/linked-list/](https://www.geeksforgeeks.org/data-structures/linked-list/)
-[https://makefiletutorial.com/](https://makefiletutorial.com/)
+- [https://www.geeksforgeeks.org/typecasting-in-c/](https://www.geeksforgeeks.org/typecasting-in-c/)
+- [https://www.geeksforgeeks.org/memory-layout-of-c-program/](https://www.geeksforgeeks.org/memory-layout-of-c-program/)
+- [https://www.geeksforgeeks.org/void-pointer-c-cpp/?ref=lbp/](https://www.geeksforgeeks.org/void-pointer-c-cpp/?ref=lbp/)
+- [https://www.geeksforgeeks.org/dangling-void-null-wild-pointers/](https://www.geeksforgeeks.org/dangling-void-null-wild-pointers/)
+- [https://www.geeksforgeeks.org/what-are-static-functions-in-c/](https://www.geeksforgeeks.org/what-are-static-functions-in-c/)
+- [https://www.arm.linux.org.uk/docs/faqs/signedchar.php](https://www.arm.linux.org.uk/docs/faqs/signedchar.php)
+- [https://www.geeksforgeeks.org/input-output-system-calls-c-create-open-close-read-write/](https://www.geeksforgeeks.org/input-output-system-calls-c-create-open-close-read-write/)
+- [https://www.geeksforgeeks.org/data-structures/linked-list/](https://www.geeksforgeeks.org/data-structures/linked-list/)
+- [https://makefiletutorial.com/](https://makefiletutorial.com/)
